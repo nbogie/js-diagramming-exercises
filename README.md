@@ -13,6 +13,9 @@ https://pythontutor.com/visualize.html#mode=display
 
 If asked to submit your diagrams (e.g. for a peer to check), the version of the diagram required will be the final state one - that one which shows the program state once it has run its final instruction
 
+## Exercises in context
+* https://www.notion.so/weareacademy/Spaceship-particles-Diagramming-and-debugging-exercise-89999a66010a4f68b1103e38e3dd98b3
+
 ## Neill's misc notes for teachers and facilitators
 
 ### exercise ideas
