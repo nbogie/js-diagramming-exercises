@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "eslint",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"presentation": {
+				//reveal problems list if typechecker finds problems
+				"revealProblems": "onProblem",
+				//otherwise, don't open the terminal with tsc's happy output
+				//comment this out if you are debugging this task
+				"reveal": "silent"
+			},
+			"label": "eslint: lint the whole folder"
+		}
+	]
+}
