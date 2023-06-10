@@ -1,0 +1,16 @@
+{
+  "name": "js-diagramming-exercises",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "nbogie",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/ex001.js",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "nodemon": "^2.0.22"
+  }
+}
