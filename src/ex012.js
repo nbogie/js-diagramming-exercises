@@ -1,4 +1,4 @@
-const a = [10, 999, 30];
+const a = [300, 10, 9];
 
 const b = a.sort();
 
