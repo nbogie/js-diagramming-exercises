@@ -4,3 +4,4 @@ const obj2 = { a: 42, b: arr1 };
 arr1[0] = 300;
 
 //what's in obj2?
+console.log(obj2.b[0]);
