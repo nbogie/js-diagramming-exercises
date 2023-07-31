@@ -1,6 +1,5 @@
 function myFn() {
-    const c = [10, 20, 30];
-    return c;
+    return [10, 20, 30];
 }
 
 const a = myFn();
