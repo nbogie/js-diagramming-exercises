@@ -3,4 +3,5 @@ function myFn([x, y, z]) {
 }
 
 const a = [10, 20, 30];
-myFn(a)
+myFn(a);
+console.log(a[1]);
