@@ -1,8 +1,7 @@
-function make() {
-    const c = { v: 1, next: null };
-    const b = { v: 1, next: c };
-    const a = { v: 1, next: b };
-    c.next = a;
-    return a;
+const ufo = { x: 100, y: 200 };
+
+function moveRight(x, y) {
+    x += 3;
 }
-const thing = make();
+
+moveRight(ufo.pos.x, ufo.pos.y);
