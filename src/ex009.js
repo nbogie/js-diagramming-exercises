@@ -5,4 +5,3 @@ let b = a;
 b = [20, 21];
 
 //what's in a now?
-console.log(a, b);
