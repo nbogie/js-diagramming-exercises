@@ -1,7 +1,7 @@
 const startPos = { x: 0, y: 0 };
 
-const a = { pos: startPos, name: "Ali" };
+const a = { pos: startPos, name: "P1" };
 
-const b = { pos: startPos, name: "Foreman" };
+const b = { pos: startPos, name: "P2" };
 
 a.pos.x++;
