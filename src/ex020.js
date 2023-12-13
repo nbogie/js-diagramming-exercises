@@ -3,9 +3,7 @@ function myFn() {
 }
 
 const a = myFn();
-
 const b = myFn();
-
 a[0] = 88;
 
-//what is b now?
+//What is a now?  What is b now?
