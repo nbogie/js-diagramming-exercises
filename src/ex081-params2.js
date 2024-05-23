@@ -1,5 +1,6 @@
 function drawHat(colour, x, y) {
-    //..contents not shown
+    fill(colour);
+    square(x, y, 80);
 }
 
 drawHat("blue", 200, 100);
