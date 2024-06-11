@@ -4,3 +4,4 @@ function myFn() {
 }
 
 const b = myFn();
+//Q: What's in a at the end?  What's in b?
