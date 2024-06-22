@@ -1,0 +1,9 @@
+{
+    "[javascript]": {
+        "editor.showUnused": false
+    },
+    "typescript.referencesCodeLens.enabled": false,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+    "javascript.inlayHints.parameterNames.enabled": "none",
+    "javascript.inlayHints.parameterTypes.enabled": false
+}
